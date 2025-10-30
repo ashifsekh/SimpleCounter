@@ -3,6 +3,9 @@
 A beginner-friendly Solidity project to learn the basics of smart contract development and interaction with the Ethereum blockchain.  
 This project demonstrates how a simple counter can be created, deployed, and interacted with — without needing any user inputs.
 
+
+Blockscout link : https://celo-alfajores.blockscout.com/address/0x34bC376D2dd18BfCa8B5Ea1e64E0DdB2503Fe4C4
+
 <img width="1447" height="807" alt="Screenshot 2025-10-30 at 2 06 51 PM" src="https://github.com/user-attachments/assets/0204e667-c43f-4dd6-a36a-938a275caf8c" />
 
 
